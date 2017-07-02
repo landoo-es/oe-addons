@@ -17,7 +17,8 @@ USAGE
 -----
 Download this module and declare it in addons_path, BEFORE Odoo Enterprise
 
-Example of odoo.conf file if you download this module to /opt/odoo/odoo10e/extramodules:
+Example of odoo.conf line:
+
 addons_path = /opt/odoo/odoo10e/extramodules,/opt/odoo/odoo10e/enterprise,/opt/odoo/odoo10e/OCA/l10n-spain,/opt/odoo/odoo10e/odoo/odoo/addons,/opt/odoo/odoo10e/odoo/addons
 
 
